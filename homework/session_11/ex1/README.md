@@ -110,6 +110,9 @@ git push -u origin main
 
 ## 5. Kết quả thực thi (Ảnh minh chứng)
 
-*(Đính kèm ảnh chụp màn hình tab GitHub Actions hiển thị Job Run Unit Tests thực thi tích xanh tại đây)*
+![alt text](image.png)
+
+bài 2 
+![alt text](image-1.png)
 
 ![GitHub Actions Success Screenshot](./screenshot.png)
